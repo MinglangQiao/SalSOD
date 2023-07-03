@@ -12,7 +12,7 @@ graphs of objects.
 
 ### Example - saliency annotation
 
-![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/saliency/005%2000_00_02-00_00_12.gif)
+![](https://github.com/MinglangQiao/SalSOD/blob/main/fig/saliency/all_method_combined_imgs.png)
 
 ### Example - scene graph annotation
 
