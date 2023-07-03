@@ -22,3 +22,9 @@ The dataset establishment process are illustrated in the following figure.
 
 ## Download database
 SalSOD database can be downloaded from [DropBox](xx)(key:xx) or [BiaduPan](xx)(key:xxxx). Please feel free to [contact us by clicking here](mailto:MinglangQiao@buaa.edu.cn) (email: minglangqiao@buaa.edu.cn) so that we can give you access to the database.
+
+
+## TODO list
+- [x] release the dataset [part1]
+- [] release the dataset [part2]
+- [] release the usuage code
