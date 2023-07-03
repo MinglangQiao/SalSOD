@@ -7,7 +7,7 @@ inside images: 1) semantic segmentation masks and bounding
 boxes, 2) saliency values and saliency rankings, and 3) scene
 graphs of objects. 
 
-The dataset establishment process as illustrated in the following figure.
+The dataset establishment process are illustrated in the following figure.
 ![](https://github.com/MinglangQiao/SalSOD/blob/main/fig/database_build.png)
 
 
