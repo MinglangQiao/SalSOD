@@ -7,7 +7,8 @@ inside images: 1) semantic segmentation masks and bounding
 boxes, 2) saliency values and saliency rankings, and 3) scene
 graphs of objects. 
 
-<!-- ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/all_video-2.jpg) -->
+The dataset establishment process as illustrated in the following figure.
+![](https://github.com/MinglangQiao/SalSOD/blob/main/fig/database_build.png)
 
 
 ### Example - saliency annotation
@@ -16,5 +17,6 @@ graphs of objects.
 
 ### Example - scene graph annotation
 
+![](https://github.com/MinglangQiao/SalSOD/blob/main/fig/scene_graph/sgg.png)
 
 
