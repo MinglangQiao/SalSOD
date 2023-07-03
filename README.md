@@ -7,7 +7,7 @@ inside images: 1) semantic segmentation masks and bounding
 boxes, 2) saliency values and saliency rankings, and 3) scene
 graphs of objects. 
 
-![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/all_video-2.jpg)
+<!-- ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/all_video-2.jpg) -->
 
 
 ### Example - saliency annotation
