@@ -26,5 +26,6 @@ SalSOD database can be downloaded from [DropBox](xx)(key:xx) or [BiaduPan](xx)(k
 
 ## TODO list
 - [x] release the dataset [part1]
-- [] release the dataset [part2]
-- [] release the usuage code
+- [ ] release the dataset [part2]
+- [ ] release the usuage code
+
